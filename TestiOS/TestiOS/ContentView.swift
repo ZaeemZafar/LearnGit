@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globel namespace Testing PR")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world! Nice to see yeah! Oh wait.")
+            Text("Hello, world! Nice to see yeah! Oh wait. PR #2")
         }
         .padding()
     }
